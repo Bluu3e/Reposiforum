@@ -1,0 +1,54 @@
+body {
+    font-family: 'Cursive', sans-serif;
+    margin: 0px 0px;
+}
+
+header a {
+    border: 0px;
+    border-radius: 2px;
+    line-height: 20px;
+    padding: 5px 12px;
+    font-size: 1.1rem;
+    text-align: center;
+    color: #272342;
+    text-shadow: 0px 0px 0px #000;
+    background-color: #887AE6;
+    background-image: ;
+    
+
+}
+
+header a:hover {
+    color: #9787FF;
+    background-color: #9787FF;
+}
+
+header, footer, div.page {
+    width: 1200px;
+    margin: 0;
+    background: #4C4480;
+    padding: 12px 90px;
+}
+
+header h1 {
+    color: #7165BF;
+    margin: 0;
+    font-weight: normal;
+    font-size: 42px;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 2px;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 0 0 0;
+    padding: 10px;
+}
+
+div.page {
+    background: #9787FF;
+}
